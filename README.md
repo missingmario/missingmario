@@ -1,9 +1,16 @@
 ## 👨‍💻 Hello there!
 
 My name is Mario,
-and I am currently working as a mobile software developer!
+and I am currently working as a mobile software developer.
 
-### Technologies I am using
+### What technologies do I know?
 
-- Swift (for iOS development)
-- Flutter (for cross-platform Android + iOS development)
+- 🍎 Swift
+  + Native iOS Development (SwiftUI/UIKit)
+  + watchOS (currently trying to develop my own app)
+- 🐥 Flutter (Dart)
+  + Cross-platform apps for both Android and iOS
+
+### How to get in contact with me?
+
+My email is available on my profile, you know what to do.
